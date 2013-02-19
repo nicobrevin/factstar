@@ -1,4 +1,4 @@
-module Facstar
+module Factstar
   class Schema::Type::WithPrimaryDimension < Schema::Type
 
     attr_reader :primary_dimension
